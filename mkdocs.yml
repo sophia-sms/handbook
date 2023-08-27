@@ -1,1 +1,9 @@
-site_name: My Docs
+site_name: CFPA Music Technology Handbook (2023-2024)
+
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - Course Outline: course-outline.md
+  - Communication: communication.md
