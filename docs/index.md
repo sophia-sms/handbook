@@ -33,4 +33,4 @@ Learning music is an endless road. It's a collaborative effort all around. I'm a
 
 ### Open-Source Education
 
-Music is meant to be shared, and by making our Music Tech courses open and available to everyone, we can have a greater impact. Instead of keeping material confined to complicated systems and PDF documents, my goal is to make as much I can available on public websites like this one. (Students always have the choice of whether or not to publish their own music.)
+Music is meant to be shared, and by making our Music Tech courses open and available to everyone, we can have a greater impact. Instead of keeping material confined to complicated systems and PDF documents, my goal is to make as much as I can available on public websites like this one. (Students always have the choice of whether or not to publish their own music.)
