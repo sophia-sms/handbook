@@ -5,5 +5,14 @@ theme:
 
 nav:
   - Home: index.md
+  - Calendar: calendar.md
+  - Program Requirements: program-requirements.md
   - Course Outline: course-outline.md
+  - Expectations: expectations.md
   - Communication: communication.md
+  - Auditions: auditions.md
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
