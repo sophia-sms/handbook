@@ -9,8 +9,8 @@ If you have any questions or suggestions about any of the content in this handbo
 ## Quick Links
 
 - Syllabuses
-  - [Music Technology 2023-24](https://pwcps-my.sharepoint.com/:w:/g/personal/levysm_pwcs_edu/Efgj69uSeMNJvWTGttGs22cBDUz0A9ZqN27Xqe5VrDdMIw?e=0oXAoP)
-  - [Advanced Music Technology 2023-24](https://pwcps-my.sharepoint.com/:w:/g/personal/levysm_pwcs_edu/EVTy-pRUWeJFjFrGxbzFBrEBZ4UgtB2CiTSSxJioxmlB2w?e=DSdvdg)
+	- [Music Technology 2023-24](https://pwcps-my.sharepoint.com/:w:/g/personal/levysm_pwcs_edu/Efgj69uSeMNJvWTGttGs22cBDUz0A9ZqN27Xqe5VrDdMIw?e=0oXAoP)
+	- [Advanced Music Technology 2023-24](https://pwcps-my.sharepoint.com/:w:/g/personal/levysm_pwcs_edu/EVTy-pRUWeJFjFrGxbzFBrEBZ4UgtB2CiTSSxJioxmlB2w?e=DSdvdg)
 - [Presentations](https://colganmusictech.github.io/presentations/)
 
 ## About Me, Mrs. Levy
