@@ -6,6 +6,13 @@ This is a live website and a work-in-progress that will evolve as the year progr
 
 If you have any questions or suggestions about any of the content in this handbook, please email me at <levysm@pwcs.edu>.
 
+## Quick Links
+
+- Syllabuses
+  - [Music Technology 2023-24](https://pwcps-my.sharepoint.com/:w:/g/personal/levysm_pwcs_edu/Efgj69uSeMNJvWTGttGs22cBDUz0A9ZqN27Xqe5VrDdMIw?e=0oXAoP)
+  - [Advanced Music Technology 2023-24](https://pwcps-my.sharepoint.com/:w:/g/personal/levysm_pwcs_edu/EVTy-pRUWeJFjFrGxbzFBrEBZ4UgtB2CiTSSxJioxmlB2w?e=DSdvdg)
+- [Presentations](https://colganmusictech.github.io/presentations/)
+
 ## About Me, Mrs. Levy
 
 - I'm excited to be the new Music Tech instructor, building on the foundation that Mr. Mills started.
