@@ -1,9 +1,5 @@
 # Calendar
 
-!!! warning "Tentative Dates"
-
-    These dates have not been confirmed yet. Please do not add them to your calendars yet.
-
 
 ## Major Shows & Special Events
 
