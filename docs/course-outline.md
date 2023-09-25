@@ -3,9 +3,9 @@
 CFPA Music Technology consists of 4 practice areas:
 
 - Composition
-- Recording & Production
 - Performance
-- Live Sound
+- Engineering
+- Production
 
 The course will be centered around projects that will give students the opportunity to both experience a taste of each of these areas and focus on the ones they're interested in.
 
