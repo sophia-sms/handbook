@@ -37,7 +37,9 @@ Studio Classes are from 2:30 to 4:00 on the following Wednesdays:
 
 ## Masterclasses
 
-TBD
+Masterclasses are from 2:30 to 4:00 on the following days:
+
+- Nov 08: Chandler Philpott
 
 ## Additional Shows
 
