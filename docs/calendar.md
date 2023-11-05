@@ -13,7 +13,7 @@ These are for students in the CFPA Music Tech program (except for Back-To-School
 - Dec 07: CFPA Music Tech FinStage Show
 - Dec 18–19: Healeypalooza Tech (setup)
 - Dec 20: Healeypalooza (show)
-- Jan 13: CFPA Audition
+- Jan 13: [CFPA Audition](https://colganhs.pwcs.edu/cfpa/auditions/) 
 - Jan 20: CFPA Audition Snow Date
 - May 02-03: CFPA Music Tech Black Box (setup)
 - May 06–08: CFPA Music Tech Black Box (setup)
