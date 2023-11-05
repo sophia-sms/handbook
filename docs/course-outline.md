@@ -12,7 +12,7 @@ The course will be centered around projects that will give students the opportun
 ## Overview
 
 - Students will complete at least two projects per marking period.
-- The last marking period will be dedicatd to End-of-Year and Senior Exit Projects.
+- The last marking period will be dedicated to End-of-Year and Senior Exit Projects.
 - Each class will produce a live show together, probably around the end of the second marking period.
     - Program students have additional performance requirements; this live show is a separate class-based project that will involve all students in each class.
 
