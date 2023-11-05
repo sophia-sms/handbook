@@ -32,7 +32,7 @@ Getting feedback on your music is an important stage of music making. Getting fe
 
 ### Well-Rounded Musicians
 
-CFPA Music Technology consists of 4 practice areas: Composition, Recording & Production, Performance, and Live Sound. Everyone will get a taste of all four areas. But they can dig deeper into the areas they are most interested in.
+CFPA Music Technology consists of 4 practice areas: Composition, Performance, Engineering, and Production. Everyone will get a taste of all four areas. But they can dig deeper into the areas they are most interested in.
 
 ### Two-Way Teaching and Learning
 
