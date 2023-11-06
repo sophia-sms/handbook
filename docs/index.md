@@ -13,7 +13,7 @@ If you have any questions or suggestions about any of the content in this handbo
 	- [Advanced Music Technology 2023-24](https://pwcps-my.sharepoint.com/:w:/g/personal/levysm_pwcs_edu/EVTy-pRUWeJFjFrGxbzFBrEBZ4UgtB2CiTSSxJioxmlB2w?e=DSdvdg)
 - [Presentations](https://colganmusictech.github.io/presentations/)
 
-## About Me, Mrs. Levy
+## About Me, Ms. Levy
 
 - I'm excited to be the new Music Tech instructor, building on the foundation that Mr. Mills started.
 - I have a wide variety of industry and teaching experience that I can draw on to help the students on their music journey.
