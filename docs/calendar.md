@@ -40,6 +40,7 @@ Studio Classes are from 2:30 to 4:00 on the following Wednesdays:
 Masterclasses are from 2:30 to 4:00 on the following days:
 
 - Nov 08: Chandler Philpott
+- Jan 16: Songwriting - CFPA Creative Writing and Music Tech Collab
 
 ## Additional Shows
 
