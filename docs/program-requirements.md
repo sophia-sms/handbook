@@ -3,7 +3,7 @@
 These are the requirements that must be completed on an annual basis to participate in the CFPA Music Technology program. See additional details on some these requirements below.
 
 - Enroll in at least one music class
-- Earn final grade of at least B- in all music classes
+- Earn final grade of at least B in all music classes
 - Attend and log 4 masterclasses
     - At least 2 Music Technology masterclasses
 - Attend and log 4 concerts as an audience member
