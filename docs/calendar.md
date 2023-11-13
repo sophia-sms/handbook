@@ -50,11 +50,7 @@ Masterclasses are from 2:30 to 4:00 on the following days:
   in the industry, namely in music production and audio engineering,
   and what it takes to get into those fields.
   The presentation will include the following representatives from
-  Trilogy:
-    ### Sarah Benrazek - Owner/CEO
-    ###Erin Anthony - Owner/CTO/Producer & Mastering Engineer
-    ###Matthew Faunda - Instructor/Arranger/Composer
-    ###Benji Cooper - Mixing/Mastering Engineer
+  Trilogy: Sarah Benrazek (Owner/CEO), Erin Anthony (Owner/CTO/Producer & Mastering Engineer), Matthew Faunda (Instructor/Arranger/Composer), Benji Cooper (Mixing/Mastering Engineer)
 
 
 ## Additional Shows
