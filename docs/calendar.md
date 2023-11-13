@@ -41,7 +41,7 @@ Masterclasses are from 2:30 to 4:00 on the following days:
 
 - Nov 08: Chandler Philpott - Live Sound Engineering at FinStage
 - Jan 16: Songwriting - CFPA Creative Writing and Music Tech Collab
-- Feb 07: Music Production House/Music Business - Trilogy Sound Studio
+- Feb 07: Music Production/Music Business - Trilogy Sound Studio
   https://trilogysoundstudio.com/
   Trilogy Sound Studio will facilitate a 90-minute live presentation and
   curate a discussion about the music production process, provide
