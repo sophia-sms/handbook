@@ -7,12 +7,12 @@ These are for students in the CFPA Music Tech program (except for Back-To-School
 
 - Aug 30: Back-To-School Night
 - Sep 18, 19, 21: House Band Auditions
-- Oct 14: CFPA Music Tech Staycation & FinStage Show - Hosted by CFPA Music Tech Leadership Team
+- Oct 14: CFPA Music Tech Staycation & FinStage "Fall" Show - Hosted by CFPA Music Tech Leadership Team
 - Oct 26: CFPA Info Night (for rising freshman)
 - Oct 27: Trunk or Treat (House Band show at Amphitheater)
-- Dec 07: CFPA Music Tech FinStage Show - Hosted by a senior: Noah Sneed
+- Dec 07: CFPA Music Tech FinStage "Winter" Show - Hosted by a senior: Noah Sneed
 - Dec 18–19: Healeypalooza Tech (setup)
-- Dec 20: Healeypalooza (show)
+- Dec 20: Healeypalooza Show at Auditorium (1623 House Band performing and Music Tech Crew live sound engineering)
 - Jan 13: [CFPA Audition](https://colganhs.pwcs.edu/cfpa/auditions/) 
 - Jan 20: CFPA Audition Snow Date
 - Feb 22: CFPA Music Tech FinStage "Rookie" Show
