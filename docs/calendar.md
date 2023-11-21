@@ -9,7 +9,7 @@ These are for students in the CFPA Music Tech program (except for Back-To-School
 - Sep 18, 19, 21: House Band Auditions
 - Oct 14: CFPA Music Tech Staycation & FinStage Show - Hosted by CFPA Music Tech Leadership Team
 - Oct 26: CFPA Info Night (for rising freshman)
-- Oct 27: Trunk or Treat (House Band show at FinStage)
+- Oct 27: Trunk or Treat (House Band show at Amphitheater)
 - Dec 07: CFPA Music Tech FinStage Show - Hosted by a senior: Noah Sneed
 - Dec 18–19: Healeypalooza Tech (setup)
 - Dec 20: Healeypalooza (show)
