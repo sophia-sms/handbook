@@ -18,9 +18,10 @@ The course will be centered around projects that will give students the opportun
 
 ## _Tentative_ Project Sequence
 
+1. **12-Bar-Blues**: compose music in any style using the 12-bar-blues chord progression/structure.
 1. **My Music Story Podcast**: a 3–5 minute recording of a narrative of your journey with supporting music and other audio.
 1. **Cover / Remix**: your creative take on an existing composition of your choice.
-1. **Live Acoustic Performance**: a simple stage experience with 1 or 2 people using voice or acoustic instruments.
+1. **Live Performance**: a stage experience performing acoustic, rock band, or electronic music, either solo or max 4 performers
 1. **Music for Multimedia**: compose music for some type of visual media, for example, movie trailer, video game, or commercial.
 1. **Class Show**: a 60-minute live show with the whole class collaborating on music creation, selection, and performance.
 1. **Original Composition**: compose a work in the style of your choice that includes a mix of software instruments and audio.
