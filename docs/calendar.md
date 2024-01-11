@@ -16,12 +16,16 @@ These are for students in the CFPA Music Tech program (except for Back-To-School
 - Jan 13: [CFPA Audition](https://colganhs.pwcs.edu/cfpa/auditions/) 
 - Jan 20: CFPA Audition Snow Date
 - Feb 22: CFPA Music Tech FinStage "Rookie" Show
+- Apr 23: Max Dunick's Senior Exit Concert @ Finstage
 - May 02-03: CFPA Music Tech Black Box (setup)
 - May 06–08: CFPA Music Tech Black Box (setup)
 - May 09: FinFest 2K24 Part 1
 - May 10: FinFest 2K24 Part 2
-- May 13: Black Box (teardown)
 - May 16: CFPA Music Tech Potluck
+- May 16: Mia Navarro & Sarah Elfeel's Senior Exit Concert @ Black Box
+- May 17: JeeWon Davis' Senior Exit Concert @ Black Box
+- May 20: Black Box (teardown)
+
 
 ## Studio Classes
 
