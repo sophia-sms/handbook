@@ -21,7 +21,7 @@ These are for students in the CFPA Music Tech program (except for Back-To-School
 - May 06–08: CFPA Music Tech Black Box (setup)
 - May 09: FinFest 2K24 Part 1
 - May 10: FinFest 2K24 Part 2
-- May 16: CFPA Music Tech Potluck
+- May 13: CFPA Music Tech Potluck
 - May 16: Mia Navarro & Sarah Elfeel's Senior Exit Concert @ Black Box
 - May 17: JeeWon Davis' Senior Exit Concert @ Black Box
 - May 20: Black Box (teardown)
