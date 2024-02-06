@@ -5,6 +5,8 @@
 
 These are for students in the CFPA Music Tech program (except for Back-To-School Night, which is for everyone).
 
+- Aug 19: CFPA Bash
+- Aug 21: First Day of School!
 - Aug 30: Back-To-School Night
 - Sep 18, 19, 21: House Band Auditions
 - Oct 14: CFPA Music Tech Staycation & FinStage "Fall" Show - Hosted by CFPA Music Tech Leadership Team
