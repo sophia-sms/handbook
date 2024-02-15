@@ -19,6 +19,7 @@ These are for students in the CFPA Music Tech program (except for Back-To-School
 - Jan 20: CFPA Audition Snow Date
 - Feb 22: CFPA Music Tech FinStage "Rookie" Show
 - Apr 23: Max Dunick's Senior Exit Concert @ Finstage
+- May 01: Noah Sneed's Senior Exit Album Release Party @ 1623
 - May 02-03: CFPA Music Tech Black Box (setup)
 - May 06–08: CFPA Music Tech Black Box (setup)
 - May 09: FinFest 2K24 Part 1
