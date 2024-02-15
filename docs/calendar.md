@@ -41,6 +41,7 @@ Studio Classes are from 2:30 to 4:00 on the following Wednesdays:
 - Feb 14
 - Mar 20
 - Apr 17
+- May 1
 
 ## Masterclasses
 
