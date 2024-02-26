@@ -18,6 +18,7 @@ These are for students in the CFPA Music Tech program (except for Back-To-School
 - Jan 13: [CFPA Audition](https://colganhs.pwcs.edu/cfpa/auditions/) 
 - Jan 20: CFPA Audition Snow Date
 - Feb 22: CFPA Music Tech FinStage "Rookie" Show
+- Apr 17: Kevon Powell's Senior Exit EP Release Party @ 1623
 - Apr 23: Max Dunick's Senior Exit Concert @ Finstage
 - May 01: Noah Sneed's Senior Exit Album Release Party @ 1623
 - May 02-03: CFPA Music Tech Black Box (setup)
