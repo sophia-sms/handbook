@@ -82,4 +82,6 @@ Masterclasses are from 2:30 to 4:00 on the following days:
 
 ## Additional Shows
 
-More FinStage and Amphitheater shows TBD
+- Mar 22: Past 9 Band - Lunch Concert @ Amphitheater
+- Apr 26: Ella Mead - Lunch Concert @ Amphitheater
+- May 03: Decision Day - 1623 House Band @ Amphitheater
