@@ -79,10 +79,12 @@ Masterclasses are from 2:30 to 4:00 on the following days:
 - Mar 12: CFPA Creative Writing and Music Tech Collab – Songwriting Part 2: Check-In
 
 - Apr 16: Chandler Philpott - Live Sound Engineering Part 2 @1623
+  
+- Apr 30: CFPA Creative Writing and Music Tech Collab – Songwriting Part 3: Check-In
 
 ## Additional Shows
 
 - Mar 14: FCCLA Fundraiser - JeeWon Davis and Friends @ Amphitheater 
 - Mar 22: Past 9 Band - Lunch Concert @ Amphitheater
-- Apr 26: Ella Mead - Lunch Concert @ Amphitheater
+- Apr 30: Ella Mead - Lunch Concert @ Amphitheater
 - May 03: Decision Day - 1623 House Band @ Amphitheater
