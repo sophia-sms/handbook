@@ -18,15 +18,11 @@ These are for students in the CFPA Music Tech program (except for Back-To-School
 - Jan 13: [CFPA Audition](https://colganhs.pwcs.edu/cfpa/auditions/) 
 - Jan 20: CFPA Audition Snow Date
 - Feb 22: CFPA Music Tech FinStage "Rookie" Show
-- Mar 21: Past 9 Band Lunchtime Amphitheater Show
 - Apr 17: Kevon Powell's Senior Exit EP Release Party @ 1623
 - Apr 23: Max Dunick's Senior Exit Concert @ Finstage
-- Apr 30: Ella Mead's Lunchtime Amphitheater Show
-- May 01: JeeWon's Lunchtime Amphitheater Show
 - May 01: Noah Sneed's Senior Exit Album Release Party @ 1623
 - May 02-03: CFPA Music Tech Black Box (setup)
 - May 06–08: CFPA Music Tech Black Box (setup)
-- May 03: Decision Day (House Band show at Amphitheater)
 - May 06: Ronny Aiken's Senior Exit EP Release Party @ 1623 (during 5th period)
 - May 09: FinFest 2K24 Part 1
 - May 10: FinFest 2K24 Part 2
@@ -89,7 +85,8 @@ Masterclasses are from 2:30 to 4:00 on the following days:
 
 ## Additional Shows
 
-- Mar 14: FCCLA Fundraiser - JeeWon Davis and Friends @ Amphitheater 
+- Mar 14: FCCLA Fundraiser - JeeWon Davis and Friends @ Amphitheater
 - Mar 22: Past 9 Band - Lunch Concert @ Amphitheater
 - Apr 30: Ella Mead - Lunch Concert @ Amphitheater
+- May 01: JeeWon - Lunch Concert @ Amphitheater
 - May 03: Decision Day - 1623 House Band @ Amphitheater
