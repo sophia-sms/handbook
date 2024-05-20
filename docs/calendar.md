@@ -90,3 +90,4 @@ Masterclasses are from 2:30 to 4:00 on the following days:
 - Apr 30: Ella Mead - Lunch Concert @ Amphitheater
 - May 01: JeeWon - Lunch Concert @ Amphitheater
 - May 03: Decision Day - 1623 House Band @ Amphitheater
+- May 24: CM3 - Lunch Concert @ Amphitheater 
