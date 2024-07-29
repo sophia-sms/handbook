@@ -1,4 +1,4 @@
-# CFPA Music Technology Handbook 2023-2024
+# CFPA Music Technology Handbook 2024-2025
 
 This handbook contains everything you need to know about the CFPA Music Tech program and its courses.
 
