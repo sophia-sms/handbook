@@ -3,8 +3,6 @@
 
 ## Major Shows & Special Events
 
-These are for students in the CFPA Music Tech program (except for Back-To-School Night, which is for everyone).
-
 - Aug 17: CFPA Bash
 - Aug 19: First Day of School!
 - Sep 05: Back-To-School Night
