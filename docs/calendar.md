@@ -30,15 +30,14 @@
 
 Studio Classes are from 2:30 to 4:00 on the following Wednesdays:
 
-- Sep 20
-- Oct 18
-- Nov 15
-- Dec 13
-- Jan 24
-- Feb 14
-- Mar 20
-- Apr 17
-- May 1
+- Sep 18
+- Oct 16
+- Nov 06
+- Dec 04
+- Jan 08
+- Feb 05
+- Mar 12
+- Apr 09
 
 ## Masterclasses
 
